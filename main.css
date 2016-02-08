@@ -1,0 +1,306 @@
+header {
+  color: white;
+  background-color: #550003;
+  padding: 18px 32px;
+}
+.headertwo {
+  color: white;
+  background-color: #2e3e4f;
+  padding: 18px 32px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+p {
+  position: relative;
+  top: 40%;
+  left: 40%;
+  right: 40%
+  padding: 0;
+  margin:0;
+  color: edecf1;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+}
+/* article is beneath header on index sheet1 */
+article {
+  color: white;
+  background-color: #eb1004;
+  height: 385px;
+  width: 100%;
+}
+/* article 2 is under header on sheet 2 */
+.artontwo {
+  color: white;
+  background-color: #2e8dd4;
+  height: 316px;
+  width: 100%;
+}
+
+.gotobox {
+  background-color: #FFFFFF;
+  position: relative;
+  top: 100px;
+  height: 68px;
+  margin-left: 155px;
+  margin-right: 155px;
+}
+.whitebox {
+  background-color: #2e8dd4;
+  position: relative;
+  top: 4px;
+  height: 60px;
+  margin-left: 4px;
+  margin-right: 4px;
+  text-align: auto;
+}
+
+.mediumbox {
+  background-color: #bfe0f6;
+  position: relative;
+  top: 113px;
+  height: 45px;
+  margin-left: 155px;
+  margin-right: 155px;
+}
+.smallbox {
+  background-color: #ffffff;
+  position: relative;
+  top: 126px;
+  height: 34px;
+  margin-left: 224px;
+  margin-right: 224px;
+}
+
+.outera {
+  color: white;
+  background-color: #ffffff;
+  height: 321px;
+  width: 100%;
+  }
+  .innera {
+    background-color: #550003;
+    position: relative;
+    top: 64px;
+    height: 225px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+.borderline {
+  border: 0;
+  size: 2px;
+  height: 2px;
+  background-color: gray;
+  color: gray;
+  width: 100%;
+}
+.px917 {
+  color: white;
+  background-color: #240000;
+  height: 917px;
+  width: 100%;
+}
+.red {
+  color: white;
+  background-color: #a20003;
+  height: 622px;
+  width: 100%;
+  }
+  .pink {
+    background-color: #d97d7c;
+    position: relative;
+    top: 140px;
+    height: 412px;
+    margin-left: 32px;
+    margin-right: 32px;
+  }
+footer {
+  background-color: #240000;
+  padding: 100px 100px;
+}
+/*  START HERE FOR BULK OF SHEET 2 */
+
+.px40 {
+  color: white;
+  background-color: #ffffff;
+  height: 40px;
+  width: 100%;
+}
+.px43 {
+  color: white;
+  background-color: #35495d;
+  height: 43px;
+  width: 100%;
+}
+.outera2 {
+  color: white;
+  background-color: #ffffff;
+  height: 40px;
+  width: 100%;
+  }
+  .innera2 {
+    background-color: #35495d;
+    position: relative;
+    top: 40px;
+    height: 43px;
+    width: 100%;
+  }
+.outd {
+  color: white;
+  background-color: #ffffff;
+  height: 168px;
+  width: 100%;
+}
+.ind {
+  background-color: #2e8dd4;
+  position: relative;
+  top: 34px;
+  height: 134px;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+.oute {
+  color: white;
+  background-color: #ffffff;
+  height: 188px;
+  width: 100%;
+}
+.ine {
+  background-color: #2e8dd4;
+  position: relative;
+  top: 27px;
+  height: 134px;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+.outf {
+  color: white;
+  background-color: #ffffff;
+  height: 134px;
+  width: 100%;
+}
+.inf {
+  background-color: #2e8dd4;
+  position: relative;
+  top: 0px;
+  height: 134px;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+/*  this G is the same as E */
+
+.outh {
+  color: white;
+  background-color: #35495d;
+  height: 426px;
+  width: 100%;
+  }
+  .inh {
+    background-color: #919dab;
+    position: relative;
+    top: 25px;
+    height: 376px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+.iupper {
+  color: white;
+  background-color: #ffffff;
+  height: 40px;
+  width: 100%;
+}
+.ilower {
+  color: white;
+  background-color: #35495d;
+  height: 43px;
+  width: 100%;
+}
+.outj {
+  color: white;
+  background-color: #ffffff;
+  height: 365px;
+  width: 100%;
+  }
+  .inj {
+    background-color: #758c8d;
+    position: relative;
+    top: 47px;
+    height: 274px;
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+  .outk {
+    color: white;
+    background-color: #ffffff;
+    height: 21px;
+    width: 100%;
+    }
+    .ink {
+      background-color: #35495d;
+      position: relative;
+      top: 0px;
+      height: 21px;
+      margin-left: 27px;
+      margin-right: 27px;
+    }
+.outl {
+  color: white;
+  background-color: #ffffff;
+  height: 181px;
+  width: 100%;
+}
+  .inl {
+    background-color: #919dab;
+    position: relative;
+    top: 36px;
+    height: 109px;
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+/* repeat k and l */
+.outm {
+  color: white;
+  background-color: #ffffff;
+  height: 21px;
+  width: 100%;
+  }
+  .inm {
+    background-color: #35495d;
+    position: relative;
+    top: 0px;
+    height: 21px;
+    margin-left: 27px;
+    margin-right: 27px;
+  }
+  .outn {
+    color: white;
+    background-color: #ffffff;
+    height: 185px;
+    width: 100%;
+  }
+    .inn {
+      background-color: #919dab;
+      position: relative;
+      top: 36px;
+      height: 109px;
+      margin-left: 27px;
+      margin-right: 27px;
+    }
+
+.footerpage2 {
+  background-color: #111111;
+  padding: 12px 12px 12px 12px;
+}
+.foot2inner {
+  background-color: #758c8d;
+  position: relative;
+  /*top: 12px;*/
+  height: 46px;
+  /*margin-left:0px;*/
+  /*margin-right: 0px;*/
+}
